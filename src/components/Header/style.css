@@ -1,0 +1,39 @@
+.main-navigation {
+    background: linear-gradient(rgba(24, 17, 1, 0.51), rgba(255, 153, 0, 0.16)) center, url("../images/headerback.jpg");
+    background-size: cover;
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0 2px 2px -2px rgba(52, 52, 52, 0.46);
+}
+
+.main-navigation .inner-navigation {
+    width: 70%;
+    margin: 0 auto;
+    float: top;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.logo, .navMenu {
+    display: inline-block;
+}
+
+.navMenu ul li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navMenu ul li a {
+    font-family: "Microsoft YaHei UI", serif;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navMenu ul li a:hover {
+    color: #ffc300;
+}
