@@ -1,0 +1,15 @@
+.excel {
+    color: #02b0f7;
+}
+
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col {
+    font-family: "Microsoft YaHei", serif;
+    font-size: large;
+    padding-left: 30px;
+    padding-right: 30px;
+}
