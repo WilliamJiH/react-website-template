@@ -1,7 +1,13 @@
 .navbar {
-
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
 }
 
+
+.navbar-brand {
+    font-family: "Microsoft YaHei UI", serif;
+    font-weight: bold;
+    font-size: large;
+}
 
 .navbar-nav {
     font-family: "Microsoft YaHei UI", serif;
@@ -13,4 +19,20 @@
 .nav-item {
     padding-left: 15px;
     padding-right: 15px;
+}
+
+#navbar ul li a {
+    color: #313131;
+}
+
+#navbar ul li a:hover {
+    color: #02b0f7;
+}
+
+#navbar ul li a:active {
+    color: #02b0f7;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
 }
