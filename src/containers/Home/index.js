@@ -1,13 +1,14 @@
 import React from "react";
 import './style.css';
-import Header from "../../components/Header";
+import Slides from "./Slides";
+import CompanyIntro from "./CompanyIntro";
 
-const Home = props => {
+
+const Home = (props) => {
     return(
         <div>
-            <Header>
-
-            </Header>
+            <Slides/>
+            <CompanyIntro/>
         </div>
     );
 }
