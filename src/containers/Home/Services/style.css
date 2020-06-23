@@ -1,0 +1,15 @@
+.text-h1-inner h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: "Microsoft YaHei UI", sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.text-p4-inner h2{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: "Microsoft YaHei UI", sans-serif;
+    font-size: xx-large;
+}
