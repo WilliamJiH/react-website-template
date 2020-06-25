@@ -9,7 +9,22 @@
 
 .text-p4-inner h2{
     text-align: center;
+    padding-top: 50px;
     padding-bottom: 50px;
     font-family: "Microsoft YaHei UI", sans-serif;
     font-size: xx-large;
+}
+
+.col-image {
+    text-align: right;
+}
+
+.col-text {
+    text-align: left;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: x-large;
+}
+
+.img-left {
+    float: left;
 }
