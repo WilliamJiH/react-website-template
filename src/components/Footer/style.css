@@ -1,0 +1,55 @@
+.footer-copyright {
+    color: #f3f3f3;
+    background-color: #313131;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: small;
+}
+
+.footer-copyright a{
+    color: #f3f3f3;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: small;
+}
+
+.container-fluid {
+    background-color: #232323;
+}
+
+.footer-cola {
+    color: #f3f3f3;
+    font-family: "Microsoft YaHei UI", serif;
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+}
+
+.footer-colb {
+    color: #f3f3f3;
+    font-family: "Microsoft YaHei UI", serif;
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+}
+
+.footer-col {
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.footer-col2 {
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.footer-col2 ul li a {
+    color: #f3f3f3;
+    font-family: "Microsoft YaHei UI", serif;
+    text-align: left;
+    font-size: small;
+}
+
+.btn-info, .btn-info:hover, .btn-info:active, .btn-info:visited {
+    background-color: #02b0f7;
+}
