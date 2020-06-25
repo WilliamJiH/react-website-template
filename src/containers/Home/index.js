@@ -2,7 +2,7 @@ import React from "react";
 import './style.css';
 import Slides from "./Slides";
 import CompanyIntro from "./CompanyIntro";
-import Services from "./Services";
+// import Services from "./Services";
 
 
 const Home = (props) => {
@@ -10,7 +10,7 @@ const Home = (props) => {
         <div className={"homepage"}>
             <Slides/>
             <CompanyIntro/>
-            <Services/>
+            {/*<Services/>*/}
         </div>
     );
 }
