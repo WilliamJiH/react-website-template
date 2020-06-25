@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const Headerfix = () => {
+function Headerfix() {
     return (
         <div className="topnav">
             <div className="topnav-right">
@@ -12,6 +12,6 @@ const Headerfix = () => {
             </div>
         </div>
     );
-};
+}
 
 export default Headerfix;
