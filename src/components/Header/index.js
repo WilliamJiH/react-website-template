@@ -1,10 +1,9 @@
 import React from 'react';
 import "./style.css";
 
-
 const Header = (props) => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top shadow-lg">
             <div className="d-flex flex-grow-1">
                 <span className="w-100 d-lg-none d-block"/>
                 <a className="navbar-brand" href="/">
