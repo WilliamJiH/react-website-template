@@ -14,7 +14,7 @@ const Services = () => {
             {/*    <div className="col-md-3">*/}
             {/*        <div className={"row"}>*/}
             {/*            <div className={"col-image col-sm-4"}>*/}
-            {/*                <img src={require("../images/guihua.png")} alt={"plan"} width={"40"} height={"40"}/>*/}
+            {/*                <images src={require("../images/guihua.png")} alt={"plan"} width={"40"} height={"40"}/>*/}
             {/*            </div>*/}
             {/*            <div className={"col-text col-sm-8"}>学术规划</div>*/}
             {/*        </div>*/}
@@ -22,7 +22,7 @@ const Services = () => {
             {/*    <div className="col-md-3">*/}
             {/*        <div className={"row"}>*/}
             {/*            <div className={"col-image col-sm-4"}>*/}
-            {/*                <img src={require("../images/fudao.png")} alt={"counsel"} width={"40"} height={"40"}/>*/}
+            {/*                <images src={require("../images/fudao.png")} alt={"counsel"} width={"40"} height={"40"}/>*/}
             {/*            </div>*/}
             {/*            <div className={"col-text col-sm-8"}>学术辅导</div>*/}
             {/*        </div>*/}
@@ -30,7 +30,7 @@ const Services = () => {
             {/*    <div className="col-md-3">*/}
             {/*        <div className={"row"}>*/}
             {/*            <div className={"col-image col-sm-4"}>*/}
-            {/*                <img src={require("../images/ducu.png")} alt={"supervise"} width={"40"} height={"40"}/>*/}
+            {/*                <images src={require("../images/ducu.png")} alt={"supervise"} width={"40"} height={"40"}/>*/}
             {/*            </div>*/}
             {/*            <div className={"col-text col-sm-8"}>学术督促</div>*/}
             {/*        </div>*/}
@@ -38,7 +38,7 @@ const Services = () => {
             {/*    <div className="col-md-3">*/}
             {/*        <div className={"row"}>*/}
             {/*            <div className={"col-image col-sm-4"}>*/}
-            {/*                <img src={require("../images/fankui.png")} alt={"feedback"} width={"40"} height={"40"}/>*/}
+            {/*                <images src={require("../images/fankui.png")} alt={"feedback"} width={"40"} height={"40"}/>*/}
             {/*            </div>*/}
             {/*            <div className={"col-text col-sm-8"}>学术反馈</div>*/}
             {/*        </div>*/}
