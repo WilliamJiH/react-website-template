@@ -1,0 +1,38 @@
+.title-0 {
+    text-align: center;
+    font-family: "Microsoft YaHei UI", serif;
+    font-weight: bold;
+    font-size: large;
+    padding: 50px;
+}
+
+.col{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.col h4{
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.col p{
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: small;
+}
+
+.more {
+    color: #262626;
+    font-family: "Microsoft YaHei UI", serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.more:hover {
+    color: #02b0f7;
+    text-decoration: none;
+}

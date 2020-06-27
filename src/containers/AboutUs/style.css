@@ -1,0 +1,32 @@
+
+.about {
+    height: 100%;
+    background-image: url("./images/Toronto.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text{
+    font-family: "Microsoft YaHei UI", serif;
+    color: #ffffff;
+    font-size: large;
+    font-weight: lighter;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+
+.title {
+    font-family: "Microsoft YaHei UI", serif;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 100px 200px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
