@@ -3,9 +3,9 @@
 [![React](https://img.shields.io/badge/library-React-yellow?style=plastic)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/library-Bootstrap-yellow?style=plastic)](https://getbootstrap.com/)
 [![WebStorm](https://img.shields.io/badge/ide-Webstorm-0078d7.svg?style=plastic)](https://www.jetbrains.com/webstorm/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](https://paypal.me/WilliamJiH)
 [![Platform](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey)](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
 This is a free open-source website template made in React.js and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
 
