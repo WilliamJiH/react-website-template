@@ -5,7 +5,7 @@ import './style.css';
 
 function Language() {
     return (
-        <div>
+        <div className={"language"}>
             <Header/>
             <div className={"row justify-content-center"}>
                 <div className={"title-0 col-sm-10"}>
@@ -16,7 +16,7 @@ function Language() {
                     </p>
                 </div>
             </div>
-            <div className={"row justify-content-center"}>
+            <div className={"row justify-content-center pb-5"}>
                 <div className={"col col-sm-2 mr-3 border rounded shadow"}>
                     <img src={require("./images/ielts.png")} width={"130"} height={"100"} alt={"ielts"}/>
                     <h4>海马雅思</h4>
