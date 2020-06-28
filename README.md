@@ -1,4 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# High Mark Edu
+This is a free open-source template made in React.JS and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
+
+## Getting Started
+
+### Prerequisites
+Webstorm (preferably the latest version), React.JS and Bootstrap 4 are required in order to understand and compile the code. If you don't have ones, you can download Webstorm [here](https://www.jetbrains.com/webstorm/).
+
+### Downloading
+There are two options of downloading the source code:
+
+#### Without [git](https://git-scm.com/)
+Choose this option if you want pure source and you're not going to contribute to the repo. Download size ~5 MB.
+
+To download source code this way click [here](https://github.com/WilliamJiH/highmarkedu/archive/master.zip).
+
+#### With [git](https://git-scm.com/)
+Choose this option if you're going to contribute to the repo or you want to use version control system. Download size ~200 MB (because of full commit history). Git is required to step further, if not installed download it here.
+
+Open git command prompt and enter following command:
+
+`git clone https://github.com/WilliamJiH/highmarkedu.git`
+
+`Highmarkedu` folder should have been succesfully created, containing all the source files.
 
 ## Available Scripts
 
