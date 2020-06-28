@@ -17,23 +17,20 @@ To download source code this way click [here](https://github.com/WilliamJiH/high
 #### With [git](https://git-scm.com/)
 Choose this option if you're going to contribute to the repo or you want to use version control system. Download size ~200 MB (because of full commit history). Git is required to step further, if not installed download it here.
 
-Open git command prompt and enter following command:
-
-`git clone https://github.com/WilliamJiH/highmarkedu.git`
-
+Open git terminal/command prompt and enter the following command:<br />
+``` git clone https://github.com/WilliamJiH/highmarkedu.git```<br />
 `Highmarkedu` folder should have been succesfully created, containing all the source files.
 
-## Available Scripts
+### Compiling from source
+When you have equiped a copy of source code, next step is open the terminal/command prompt inside Webstorm (or use `cd` command to your unzipped source directory) and enter the following commands:
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
+#### If you'd like to run the source in the development mode, you should enter:<br />
+`npm start` <br />
+This command runs the source in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+You may also see any lint errors in the console.
 
 ### `npm test`
 
