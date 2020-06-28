@@ -1,5 +1,8 @@
 # High Mark Edu
-[![React.js](https://img.shields.io/badge/language-React.js-ff69b4?style=plastic)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/language-JavaScript-ff69b4?style=plastic)](https://nodejs.org/en/)
+[![React](https://img.shields.io/badge/library-React-yellow?style=plastic)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/library-Bootstrap-yellow?style=plastic)](https://getbootstrap.com/)
+
 
 This is a free open-source template made in React.JS and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
 
