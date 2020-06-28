@@ -49,3 +49,9 @@ Your website is ready to be deployed!
 #### Learn More
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.<br />
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## License
+* For commercial or personal use.
+* Use and edit freely.
+* Not redistribute or resell this assets.
+* Unnecessarily, but I'd be happy if you give me credit.
