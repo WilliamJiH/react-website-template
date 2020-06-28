@@ -5,12 +5,12 @@
 [![WebStorm](https://img.shields.io/badge/ide-Webstorm-0078d7.svg?style=plastic)](https://www.jetbrains.com/webstorm/)
 [![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](https://paypal.me/WilliamJiH)
 
-This is a free open-source template made in React.JS and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
+This is a free open-source template made in React.js and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
 
 ## Getting Started
 
 ### Prerequisites
-Webstorm (preferably the latest version), React.JS and Bootstrap 4 are required in order to understand and compile the code. If you don't have ones, you can download Webstorm [here](https://www.jetbrains.com/webstorm/).
+Webstorm (preferably the latest version), React.js and Bootstrap 4 are required in order to understand and compile the code. If you don't have ones, you can download Webstorm [here](https://www.jetbrains.com/webstorm/).
 
 ### Downloading
 There are two options of downloading the source code:
