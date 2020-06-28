@@ -7,6 +7,9 @@ import About from "./containers/AboutUs";
 import Background from "./containers/Background";
 import Language from "./containers/Language";
 import FourOFour from "./containers/404";
+import AP from "./containers/International/AP";
+import A_Level from "./containers/International/Alevel";
+import Contest from "./containers/Contest";
 
 
 function App() {
@@ -19,6 +22,9 @@ function App() {
                     <Route path={"/background"} exact={true} component={Background}/>
                     <Route path={"/language"} exact={true} component={Language}/>
                     <Route path={"/404"} exact={true} component={FourOFour}/>
+                    <Route path={"/ap"} exact={true} component={AP}/>
+                    <Route path={"/alevel"} exact={true} component={A_Level}/>
+                    <Route path={"/contest"} exact={true} component={Contest}/>
                 </Switch>
             </div>
         </Router>
