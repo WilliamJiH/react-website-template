@@ -6,6 +6,12 @@
     padding: 50px;
 }
 
+.language {
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .col{
     text-align: center;
     padding-top: 30px;
