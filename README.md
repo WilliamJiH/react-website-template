@@ -56,6 +56,9 @@ Your website is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.<br />
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Acknowledgments
+* [ZonaHu](https://github.com/ZonaHu) - for great front-end app samples created in Javascript.
+
 ## License
 * For commercial or personal use.
 * Use and edit freely.
