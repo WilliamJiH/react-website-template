@@ -7,7 +7,11 @@
 [![Platform](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey)](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-lightgrey)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 
-This is a free open-source website template made in React.js and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers.
+This is a free open-source website template made in React.js and Bootstrap 4. Originally designed for Beijing Haima International Education Consulting Co., Ltd. Compatible with most browsers. This template might be buggy for now, but we will make it better from time to time.
+
+#### Example: Click [here](https://highmarkexample.herokuapp.com/).
+
+![example](https://i.ibb.co/xSWv5mb/Capture.png)
 
 ## Getting Started
 
