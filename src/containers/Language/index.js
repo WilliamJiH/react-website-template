@@ -17,7 +17,7 @@ function Language() {
                 </div>
             </div>
             <div className={"row justify-content-center pb-5"}>
-                <div className={"col col-sm-2 mr-3 border rounded shadow"}>
+                <div className={"col col-sm mr-3 border rounded shadow"}>
                     <img src={require("./images/ielts.png")} width={"130"} height={"100"} alt={"ielts"}/>
                     <h4>海马雅思</h4>
                     <p>
@@ -27,7 +27,7 @@ function Language() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/toefl.png")} width={"130"} height={"100"} alt={"toefl"}/>
                     <h4>海马托福</h4>
                     <p>
@@ -37,7 +37,7 @@ function Language() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/sat.png")} width={"130"} height={"100"} alt={"sat"}/>
                     <h4>海马SAT</h4>
                     <p>
@@ -47,7 +47,7 @@ function Language() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/duolingo.png")} width={"130"} height={"100"} alt={"duolingo"}/>
                     <h4>海马多邻国</h4>
                     <p>

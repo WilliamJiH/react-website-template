@@ -4,20 +4,22 @@ import "./style.css";
 const Header = (props) => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top shadow-lg">
-            <div className="d-flex flex-grow-1">
+            <div className={"d-flex flex-grow-1"}>
                 <span className="w-100 d-lg-none d-block"/>
                 <a className="navbar-brand" href="/">
                     {/*<images src={require("../images/logo128.png")} alt={"Logo"}/>*/}
                     海马国际教育
                 </a>
-                <div className="w-100 text-right">
-                    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="/navbar">
+                <div className={"w-100 text-right"}>
+                    <button className="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarTogglerDemo02"
+                            aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"/>
                     </button>
                 </div>
             </div>
-            <div className="collapse navbar-collapse flex-grow-1 text-right" id="navbar">
-                <ul className="navbar-nav ml-auto flex-nowrap">
+            <div className="collapse navbar-collapse navbar-right" id="navbarTogglerDemo02">
+                <ul className="navbar-nav mr-auto navbar-right">
                     <li className="nav-item active">
                         <a href={"/"} className="nav-link">首页</a>
                     </li>
@@ -46,6 +48,7 @@ const Header = (props) => {
                 </ul>
             </div>
         </nav>
+
     );
 };
 

@@ -3,7 +3,7 @@
     font-family: "Microsoft YaHei UI", serif;
     font-weight: bold;
     font-size: large;
-    padding: 50px;
+    padding: 10px;
 }
 
 .language {
@@ -41,4 +41,8 @@
 .more:hover {
     color: #02b0f7;
     text-decoration: none;
+}
+
+.row {
+    padding-bottom: 30px;
 }

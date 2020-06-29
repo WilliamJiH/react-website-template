@@ -17,7 +17,7 @@ function Contest() {
                 </div>
             </div>
             <div className={"row justify-content-center pb-5"}>
-                <div className={"col col-sm-2 mr-3 border rounded shadow"}>
+                <div className={"col col-sm mr-3 border rounded shadow"}>
                     <img src={require("./images/amc.png")} width={"130"} height={"100"} alt={"amc"}/>
                     <h4>海马AMC</h4>
                     <p>
@@ -27,7 +27,7 @@ function Contest() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/phy.png")} width={"130"} height={"100"} alt={"phy"}/>
                     <h4>海马物理杯</h4>
                     <p>
@@ -38,7 +38,7 @@ function Contest() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/icpc.png")} width={"130"} height={"100"} alt={"icpc"}/>
                     <h4>海马ICPC</h4>
                     <p>
@@ -48,7 +48,7 @@ function Contest() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/ioi.png")} width={"130"} height={"100"} alt={"ioi"}/>
                     <h4>海马IOI预备课</h4>
                     <p>

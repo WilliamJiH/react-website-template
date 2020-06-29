@@ -17,15 +17,11 @@
     padding-right: 15px;
 }
 
-#navbar ul li a {
+#navbarTogglerDemo02 ul li a {
     color: #313131;
 }
 
-#navbar ul li a:hover {
-    color: #02b0f7;
-}
-
-#navbar ul li a:active {
+#navbarTogglerDemo02 ul li a:hover {
     color: #02b0f7;
 }
 

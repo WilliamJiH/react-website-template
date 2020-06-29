@@ -17,7 +17,7 @@ function Background() {
                 </div>
             </div>
             <div className={"row justify-content-center pb-5"}>
-                <div className={"col col-sm-2 mr-3 border rounded shadow"}>
+                <div className={"col col-sm mr-3 border rounded shadow"}>
                     <img src={require("./images/cs.png")} width={"70"} height={"70"} alt={"cs"}/>
                     <h4>编程项目训练</h4>
                     <p>
@@ -28,7 +28,7 @@ function Background() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/comp.png")} width={"70"} height={"70"} alt={"comp"}/>
                     <h4>名企实习</h4>
                     <p>
@@ -38,7 +38,7 @@ function Background() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 mr-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/camp.png")} width={"70"} height={"70"} alt={"camp"}/>
                     <h4>游学夏令营</h4>
                     <p>
@@ -48,7 +48,7 @@ function Background() {
                     <br/>
                     <a className={"more"} href={"/404"}>更多详情>>></a>
                 </div>
-                <div className={"col col-sm-2 ml-3 border rounded shadow"}>
+                <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/eco.png")} width={"70"} height={"70"} alt={"eco"}/>
                     <h4>义工项目</h4>
                     <p>
