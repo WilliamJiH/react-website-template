@@ -1,6 +1,6 @@
 .text-h1-inner h1{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
     font-family: "Microsoft YaHei UI", sans-serif;
     font-weight: bold;
@@ -9,22 +9,30 @@
 
 .text-p4-inner h2{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px;
     font-family: "Microsoft YaHei UI", sans-serif;
     font-size: xx-large;
 }
 
-.col-image {
-    text-align: right;
+.img {
+    padding-bottom: 10px;
 }
 
-.col-text {
-    text-align: left;
-    font-family: "Microsoft YaHei UI", serif;
-    font-size: x-large;
+.text-x {
+    color: #4b4b4b;
+    padding-top: 10px;
+    text-align: center;
+    font-family: "Microsoft YaHei UI", sans-serif;
+    font-weight: bold;
 }
 
-.img-left {
-    float: left;
+
+.text-y {
+    color: #4b4b4b;
+    padding-top: 10px;
+    text-align: center;
+    font-family: "Microsoft YaHei UI", sans-serif;
+    font-weight: lighter;
+    font-size: large;
 }
