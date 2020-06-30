@@ -25,7 +25,7 @@ function A_Level() {
                         特别对于学生薄弱的实验题做了大量分析，助您拿到A*！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("../images/math2.png")} width={"50"} height={"50"} alt={"math"}/>
@@ -36,7 +36,7 @@ function A_Level() {
                         学懂数学，奔向名校！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("../images/chem2.png")} width={"50"} height={"50"} alt={"chem2"}/>
@@ -47,7 +47,7 @@ function A_Level() {
                         让学生不再畏惧化学。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <div className={"row justify-content-center pb-5"}>
@@ -59,7 +59,7 @@ function A_Level() {
                         理解不深入，丢分率高。海马国际教育聘请在职的国际学校经济教师，强基础重练习，实现您的商科梦。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("../images/bio.png")} width={"50"} height={"50"} alt={"bio"}/>
@@ -69,7 +69,7 @@ function A_Level() {
                         内容，整理生物各章节词汇，辅以海马专属四大服务，让生物不再困扰您的学习。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("../images/cs2.png")} width={"50"} height={"50"} alt={"cs2"}/>
@@ -79,7 +79,7 @@ function A_Level() {
                         编程教育方面优势明显，精研ALevel计算机课程，深入浅出讲解，配以大量练习以及背景提升，让CS之梦从高中开始实现！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <Footer/>

@@ -26,7 +26,7 @@ function Background() {
                         并提供三大方向（机器学习/网页设计/游戏设计）进阶课程可供选择。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/comp.png")} width={"70"} height={"70"} alt={"comp"}/>
@@ -36,7 +36,7 @@ function Background() {
                         优秀的实习经历对于申请来说很加分哦！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/camp.png")} width={"70"} height={"70"} alt={"camp"}/>
@@ -46,7 +46,7 @@ function Background() {
                         全部项目都提供相应的证明或证书，对申请有一定帮助。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/eco.png")} width={"70"} height={"70"} alt={"eco"}/>
@@ -55,7 +55,7 @@ function Background() {
                         海马国际教育可以在境内外帮助学生安排义工活动，一方面让学生体会到劳动的辛苦，另一方面对学生背景多样化提升有很大益处。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <Footer/>

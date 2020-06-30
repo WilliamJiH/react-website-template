@@ -25,7 +25,7 @@ function AP() {
                         海马国际教育针对力学、电学、光学、转动等几大主题专题梳理，历年来学生5分率极高！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("../images/calc.png")} width={"50"} height={"50"} alt={"calc"}/>
@@ -35,7 +35,7 @@ function AP() {
                         绝大部分学生都会选择。海马国际教育深度剖析数学大纲，配合大量真题练习，得到学生广泛好评。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("../images/chem.png")} width={"50"} height={"50"} alt={"chem"}/>
@@ -45,7 +45,7 @@ function AP() {
                         单词知识点全面覆盖，配合海马专属的四大服务，让学生不再畏惧化学。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <div className={"row justify-content-center pb-5"}>
@@ -58,7 +58,7 @@ function AP() {
                         实现您的商科梦。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("../images/stats.png")} width={"50"} height={"50"} alt={"stats"}/>
@@ -68,7 +68,7 @@ function AP() {
                         国际教育的讲解，统计5分不是梦。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("../images/cs.png")} width={"50"} height={"50"} alt={"cs"}/>
@@ -78,7 +78,7 @@ function AP() {
                         方面优势明显，精研AP计算机课程，深入浅出讲解，配以大量练习以及背景提升，让CS之梦从高中开始实现！
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <Footer/>

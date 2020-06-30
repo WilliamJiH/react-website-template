@@ -25,7 +25,7 @@ function Language() {
                         每科目至少提高1 – 1.5分。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/toefl.png")} width={"130"} height={"100"} alt={"toefl"}/>
@@ -35,7 +35,7 @@ function Language() {
                         杜绝学生懒惰行为。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/sat.png")} width={"130"} height={"100"} alt={"sat"}/>
@@ -45,7 +45,7 @@ function Language() {
                         单词/阅读/语法/数学/作文分别授课，让SAT提分不再困难。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/duolingo.png")} width={"130"} height={"100"} alt={"duolingo"}/>
@@ -55,7 +55,7 @@ function Language() {
                         由于考试题型新颖，且随机性较强，很多学生没有好的方法练习，海马国际教育有着市面上最完善的精校多邻国真题，
                         专业老师精心剖析八大题型，提分效果显著。
                     </p>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <Footer/>

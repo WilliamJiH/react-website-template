@@ -25,7 +25,7 @@ function Contest() {
                         提高美国青少年的数学技能，并培养他们对数学的兴趣。AMC在促进美国中学数学教育中发挥着非常重要的作用。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/phy.png")} width={"130"} height={"100"} alt={"phy"}/>
@@ -36,7 +36,7 @@ function Contest() {
                         在国内参与度较高，是最负盛名的物理竞赛。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 mr-3 border rounded shadow"}>
                     <img src={require("./images/icpc.png")} width={"130"} height={"100"} alt={"icpc"}/>
@@ -46,7 +46,7 @@ function Contest() {
                         竞赛。经过30多年的发展，国际大学生程序设计竞赛已经发展成为最具影响力的大学生计算机竞赛。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
                 <div className={"col col-sm ml-3 border rounded shadow"}>
                     <img src={require("./images/ioi.png")} width={"130"} height={"100"} alt={"ioi"}/>
@@ -56,7 +56,7 @@ function Contest() {
                         以C++为主，解决各类算法问题。选手以个人为单位，每个国家最多可选派4名选手参加。参赛选手从各国相应计算机竞赛中选拔。
                     </p>
                     <br/>
-                    <a className={"more"} href={"/404"}>更多详情>>></a>
+                    {/*<a className={"more"} href={"/404"}>更多详情>>></a>*/}
                 </div>
             </div>
             <Footer/>
