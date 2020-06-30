@@ -1,0 +1,15 @@
+.bar {
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+.tit {
+    color: #02b0f7;
+    font-family: "Microsoft YaHei UI", serif;
+}
+
+.text-g {
+    font-family: "Microsoft YaHei UI",serif;
+    font-size: large;
+    font-weight: lighter;
+}
