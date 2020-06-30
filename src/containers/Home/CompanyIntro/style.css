@@ -2,15 +2,18 @@
     color: #02b0f7;
 }
 
-
-.container {
+.paddings {
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.col {
+
+.lead {
     font-family: "Microsoft YaHei", serif;
-    font-size: large;
-    padding-left: 30px;
+    font-size: x-large;
+}
+
+.lead-0 {
+    font-family: "Microsoft YaHei UI", serif;
     padding-right: 30px;
 }
