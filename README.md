@@ -1,4 +1,4 @@
-# High Mark Edu
+# React-Website-Template
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-ff69b4?style=plastic)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/library-React-yellow?style=plastic)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/library-Bootstrap-yellow?style=plastic)](https://getbootstrap.com/)
