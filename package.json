@@ -19,7 +19,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "skrollr": "^0.6.26",
-    "swiper": "^5.4.5"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
